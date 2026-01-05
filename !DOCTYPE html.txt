@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>健康×習慣設計 伴走型プログラム｜前田 一輝</title>
+  <meta name="description" content="行動・環境・時間の使い方を整え、理想に向かって自然と動ける自分をつくる。忙しいパパ・ママのための健康×習慣設計 伴走型プログラム。" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="container header__inner">
+      <div class="brand">
+        <div class="brand__name">健康×習慣設計 伴走型プログラム</div>
+        <div class="brand__sub">前田 一輝（ボディメイク視点×習慣設計）</div>
+      </div>
+      <nav class="nav">
+        <a href="#about">概要</a>
+        <a href="#program">プログラム</a>
+        <a href="#price">料金</a>
+        <a class="btn btn--small" href="#cta">無料ヒアリング</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero__inner">
+      <div class="hero__copy">
+        <p class="tag">忙しいパパ・ママ向け｜健康×習慣設計</p>
+        <h1>
+          忙しい毎日の中でも、<br />
+          <span class="hl">理想に向かって“自然と動ける自分”</span>をつくる
+        </h1>
+        <p class="lead">
+          行動・環境・時間の使い方を整え、<br />
+          健康と習慣の土台から人生を立て直す「伴走型プログラム」。
+        </p>
+        <div class="hero__actions">
+          <a class="btn" href="#cta">LINEで無料ヒアリングを受ける</a>
+          <a class="btn btn--ghost" href="#program">内容を見る</a>
+        </div>
+        <p class="note">※無理な勧誘は一切ありません</p>
+      </div>
+
+      <div class="hero__card">
+        <div class="card">
+          <h3>このプログラムで整えること</h3>
+          <ul class="check">
+            <li>時間の使い方（流されない）</li>
+            <li>動ける身体の土台（睡眠・食事・運動）</li>
+            <li>続く行動設計（意志に頼らない）</li>
+            <li>心の余裕（自己否定を減らす）</li>
+            <li>自己効力感（できる感覚を戻す）</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Problem -->
+  <section class="section">
+    <div class="container">
+      <h2>こんな状態に心当たりはありませんか？</h2>
+      <div class="grid grid--2">
+        <div class="box">
+          <ul class="bullet">
+            <li>やりたいことはあるのに、毎日余裕がない</li>
+            <li>「変わりたい」と思っても、続かない</li>
+            <li>健康も習慣も後回しになっている</li>
+            <li>自分を責める思考が止まらない</li>
+            <li>何から整えればいいか分からない</li>
+          </ul>
+        </div>
+        <div class="box box--soft">
+          <p class="em">
+            それはあなたの意志が弱いからではありません。<br />
+            続かない原因は「設計」側にあることがほとんどです。
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why -->
+  <section class="section section--alt" id="about">
+    <div class="container">
+      <h2>なぜ多くの人は変われないのか？</h2>
+      <div class="grid grid--2">
+        <div class="box">
+          <h3>意志ではなく「無意識」</h3>
+          <p>
+            人は1日に膨大な回数の意思決定をしています。<br />
+            疲れている状態・余裕がない状態では、正しい選択がしづらくなります。
+          </p>
+        </div>
+        <div class="box">
+          <h3>だから“頑張る”より先に整える</h3>
+          <p>
+            このプログラムは、気合や根性で動かすのではなく、<br />
+            <strong>行動・環境・時間</strong>を整えて「自然と動ける状態」をつくる設計です。
+          </p>
+        </div>
+      </div>
+
+      <div class="pillars">
+        <div class="pillar">
+          <div class="pillar__no">01</div>
+          <div>
+            <h4>時間の主導権</h4>
+            <p>流される毎日から抜け出し、自分の時間を取り戻す。</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__no">02</div>
+          <div>
+            <h4>動ける体の土台</h4>
+            <p>睡眠・食事・運動を“整えるだけ”で、動きやすさを底上げ。</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__no">03</div>
+          <div>
+            <h4>思考のノイズ整理</h4>
+            <p>迷い・焦り・考えすぎを減らし、判断がラクになる。</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__no">04</div>
+          <div>
+            <h4>続く行動設計</h4>
+            <p>意志に頼らず、戻れる仕組みをつくる。</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__no">05</div>
+          <div>
+            <h4>余白と自己効力感</h4>
+            <p>「自分にもできる」という感覚を取り戻す。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Program -->
+  <section class="section" id="program">
+    <div class="container">
+      <h2>プログラム内容</h2>
+
+      <div class="cards">
+        <article class="plan">
+          <div class="plan__head">
+            <h3>1ヶ月｜土台リセット・体感プログラム</h3>
+            <p class="plan__sub">第1章：健康×習慣設計の基礎づくり</p>
+          </div>
+          <div class="plan__body">
+            <h4>目的</h4>
+            <ul class="bullet">
+              <li>行動・思考・健康の土台を整える</li>
+              <li>「前より楽」「これなら続く」を体感する</li>
+            </ul>
+
+            <h4>この1ヶ月でやること</h4>
+            <ul class="check">
+              <li>行動を1〜2個に最小化</li>
+              <li>睡眠・食事・運動は「整える・観察する」だけ</li>
+              <li>無意識の行動／時間の使い方を可視化</li>
+            </ul>
+
+            <p class="note">※体重・数字・成果は一切求めません</p>
+          </div>
+        </article>
+
+        <article class="plan plan--featured">
+          <div class="plan__badge">おすすめ</div>
+          <div class="plan__head">
+            <h3>3ヶ月｜習慣定着・自走プログラム</h3>
+            <p class="plan__sub">崩れない／戻れる／回り続ける状態へ</p>
+          </div>
+          <div class="plan__body">
+            <h4>目的</h4>
+            <ul class="bullet">
+              <li>考えなくても回る状態をつくる</li>
+              <li>イレギュラーがあっても崩れない設計</li>
+              <li>コーチなしでも立て直せる力を獲得</li>
+            </ul>
+
+            <h4>2〜3ヶ月目で行うこと</h4>
+            <ul class="check">
+              <li>Weekly / Dailyの本格運用</li>
+              <li>環境介入（時間・場所・人）の強化</li>
+              <li>止まりそうな時の対処法を一緒に作る</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+
+      <div class="support">
+        <h3>サポート内容（共通）</h3>
+        <div class="grid grid--3">
+          <div class="box">
+            <h4>初回ヒアリング（Zoom）</h4>
+            <p>現状・理想・行動パターンを整理し、最小行動を設計します。</p>
+          </div>
+          <div class="box">
+            <h4>週1回 Zoom講義＋カウンセリング</h4>
+            <p>講義は固定化しつつ、あなたの状況に合わせて調整します。</p>
+          </div>
+          <div class="box">
+            <h4>LINE（毎日）</h4>
+            <p>○×＋一言の簡単報告。介入は最小限、安心感重視です。</p>
+          </div>
+        </div>
+        <p class="note">※管理・監視ではなく「続く設計」を一緒に作ります</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Price -->
+  <section class="section section--alt" id="price">
+    <div class="container">
+      <h2>料金</h2>
+
+      <div class="price">
+        <div class="price__item">
+          <div class="price__title">1ヶ月プログラム</div>
+          <div class="price__value">29,800円<span>（税込）</span></div>
+          <div class="price__desc">土台を整え「前より楽」を体感する</div>
+        </div>
+
+        <div class="price__item price__item--featured">
+          <div class="price__title">3ヶ月プログラム</div>
+          <div class="price__value">79,800円<span>（税込）</span></div>
+          <div class="price__desc">崩れない・戻れる・自走できる状態へ</div>
+        </div>
+      </div>
+
+      <p class="note">※無理な勧誘は一切ありません。無料ヒアリングで整理してからご検討ください。</p>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container">
+      <h2>よくある質問</h2>
+
+      <details class="faq">
+        <summary>忙しくても本当にできますか？</summary>
+        <p>むしろ忙しい方ほど向いています。行動は1〜2個に絞り、続く前提で設計します。</p>
+      </details>
+
+      <details class="faq">
+        <summary>1ヶ月でどんな変化がありますか？</summary>
+        <p>数字ではなく「前より楽」「これなら続く」という体感の変化を作ります。動ける土台が整うことで、日常のパフォーマンスが上がりやすくなります。</p>
+      </details>
+
+      <details class="faq">
+        <summary>体重や食事の厳しい管理はありますか？</summary>
+        <p>ありません。評価や監視ではなく、観察と調整で「自然に整う状態」を作ります。</p>
+      </details>
+
+      <details class="faq">
+        <summary>無料ヒアリングで何をしますか？</summary>
+        <p>現状・理想・つまずきパターンを整理し、必要な設計の方向性を一緒に見立てます。無理な勧誘はしません。</p>
+      </details>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta" id="cta">
+    <div class="container cta__inner">
+      <div>
+        <h2>まずは無料ヒアリングで「今の状態」を整理しませんか？</h2>
+        <p class="lead">
+          いきなり頑張らなくて大丈夫です。<br />
+          まず「続かない構造」を一緒に見つけて、整え直すところから始めます。
+        </p>
+        <p class="note">※無理な勧誘は一切ありません</p>
+      </div>
+      <div class="cta__actions">
+        <!-- ここにあなたのLINE URLを入れてください -->
+        <a class="btn btn--cta" href="https://lin.ee/XXXXXXXX" target="_blank" rel="noopener">LINEで無料ヒアリングを受ける</a>
+        <p class="small">リンクをあなたのLINE公式URLに差し替えるだけでOK</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p>© <span id="year"></span> 前田 一輝｜健康×習慣設計 伴走型プログラム</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
